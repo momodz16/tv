@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "TVs",
+  "categories": [
+    {
+      "name": "TV",
+      "items": [
+        {
+          "title": "OTT",
+          "url": "https://ott-play.com/f/"
+        },
+        {
+          "title": "SMARTB",
+          "url": "http://webtv-new.iptvsmarters.com/"
+        }
+      ]
+    }
+  ]
+}
